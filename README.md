@@ -10,3 +10,6 @@ I've worked on a variety of projects from small prototypes to large-scale applic
 
 ### 🤝 Let's Connect
 Thanks for taking the time to check out my profile! If you're interested in collaborating on a project, discussing common interests, or just saying hello, feel free to reach out. Let's build something amazing together! 💪
+
+### Now?
+Building an enterprise application at Xoxoday
