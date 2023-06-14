@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a Software Engineer, with a focus on front-end development. Proven track record in developing Pixel perfection high-quality scalable web applications. 
+I'm a Software Engineer, with a focus on front-end development. Proven track record in developing Pixel perfect high-quality scalable web applications. 
 
 
 ### Skills
