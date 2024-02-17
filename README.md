@@ -7,9 +7,6 @@
 ### 🤝 Let's Connect
 Thanks for taking the time to check out my profile! If you're interested in collaborating on a project, discussing common interests, or just saying hello, feel free to reach out. Let's build something amazing together! 💪
 
-
-📫 How to reach me **jayeshpp007@gmail.com**
-
 <p align="left">
 <a href="https://stackoverflow.com/users/3907617" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="3907617" height="30" width="40" /></a>
 </p>
