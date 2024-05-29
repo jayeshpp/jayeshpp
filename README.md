@@ -8,9 +8,9 @@
 Thanks for taking the time to check out my profile! If you're interested in collaborating on a project, discussing common interests, or just saying hello, feel free to reach out. Let's build something amazing together! 💪
 
 <p align="left">
-<a href="https://stackoverflow.com/users/3907617" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="3907617" height="30" width="40" /></a>
-
-<a href="https://www.linkedin.com/in/jayeshpp/" target="blank"><img align="center" src="" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/3907617" target="blank">Stackoverflow</a> 
+<a href="https://www.linkedin.com/in/jayeshpp/" target="blank">LinkedIn</a> 
+<a href="https://jayeshpp.github.io/" target="_blank">Website</a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
