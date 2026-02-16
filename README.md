@@ -20,7 +20,8 @@ I build scalable, high-performance web applications with a strong focus on moder
 
 - Scalable frontend architecture  
 - Performance optimization  
-- Clean, maintainable code  
+- Clean, maintainable code
+- Design systems & UX
 - API design & integration  
 - SEO & accessibility  
 
