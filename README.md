@@ -6,6 +6,15 @@ I enjoy building products from **0→1** and solving problems at the intersectio
 
 ---
 
+## 🚀 Projects
+
+### Nurturly 
+Nurturly is an offline-first baby activity tracker
+
+🔗 Live [Demo](https://nurturly.vercel.app/)
+
+---
+
 ## 🚀 What I'm Working On
 
 - Building AI-assisted SaaS products
